@@ -7,7 +7,7 @@ Welcome to **ProfitScripts** — a professional IT and blockchain development st
 We build everything — from small business websites to complex crypto ecosystems, token platforms, and DeFi applications.
 
 ---
-
+ 
 ### 💡 What We Do
 
 #### 🔹 Web Development
