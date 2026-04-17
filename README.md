@@ -29,7 +29,7 @@ We build everything — from small business websites to complex crypto ecosystem
 ## 🧩 Script Marketplace
 
 🎯 Visit our ready-made script store:  
-👉 https://profitscripts.asia/shop/
+👉 https://mintscripts.net/market
 
 Find **website templates, crypto scripts, Telegram bots**, and **ready-to-use IT solutions** for your next project.
 
