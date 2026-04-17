@@ -1,6 +1,6 @@
 # 🚀 Mint Scripts — Full-Cycle Development Studio for Web, Crypto & Telegram Projects
 
-[![ProfitScripts Development Studio](https://i.imgur.com/nQzBofI.jpeg)](https://mintscripts.net)
+[![ProfitScripts Development Studio](https://mintscripts.net/templates/Default/images/og-default.jpg)](https://mintscripts.net)
 
 Welcome to **Mint Scripts** — a professional IT and blockchain development studio specializing in **websites, cryptocurrency exchanges, Telegram bots, and full-scale crypto projects**.
 
