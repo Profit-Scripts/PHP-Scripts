@@ -1,8 +1,8 @@
-# 🚀 ProfitScripts — Full-Cycle Development Studio for Web, Crypto & Telegram Projects
+# 🚀 Mint Scripts — Full-Cycle Development Studio for Web, Crypto & Telegram Projects
 
-[![ProfitScripts Development Studio](https://i.imgur.com/nQzBofI.jpeg)](https://profitscripts.asia)
+[![ProfitScripts Development Studio](https://i.imgur.com/nQzBofI.jpeg)](https://mintscripts.net)
 
-Welcome to **ProfitScripts** — a professional IT and blockchain development studio specializing in **websites, cryptocurrency exchanges, Telegram bots, and full-scale crypto projects**.
+Welcome to **Mint Scripts** — a professional IT and blockchain development studio specializing in **websites, cryptocurrency exchanges, Telegram bots, and full-scale crypto projects**.
 
 We build everything — from small business websites to complex crypto ecosystems, token platforms, and DeFi applications.
 
@@ -52,8 +52,7 @@ Find **website templates, crypto scripts, Telegram bots**, and **ready-to-use IT
 
 ## 📞 Contacts
 
-💬 Telegram: [@ProfitScripts](https://t.me/ProfitScripts)  
-📩 Email: profitscripts@gmail.com  
-🌍 Website: [https://profitscripts.cc](https://profitscripts.asia)  
+💬 Telegram: [@MintScripts](https://t.me/ProfitScripts)  
+🌍 Website: [https://mintscripts.net](https://mintscripts.net)  
 
 
