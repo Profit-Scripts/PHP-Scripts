@@ -52,7 +52,7 @@ Find **website templates, crypto scripts, Telegram bots**, and **ready-to-use IT
 
 ## 📞 Contacts
 
-💬 Telegram: [@MintScripts](https://t.me/ProfitScripts)  
+💬 Telegram: [@MintScripts](https://t.me/MinttScripts)  
 🌍 Website: [https://mintscripts.net](https://mintscripts.net)  
 
 
